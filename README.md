@@ -1,0 +1,2 @@
+A comparison of an imperative language and a non imperative language was done where Java was selected as an imperative language and prolog as a non imperative one. The chessboard in a particular position was initialized by both the langauges. The task was then documented.
+An interactive comparison of both language is present at https://sameedahmedkhan.medium.com/comparative-study-of-java-and-prolog-c65dce29c91d
